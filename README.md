@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sara Castellanos
 
-<!--
-**sarasystec/sarasystec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI implementation consultant. I build workflows, automations and AI agents on top of relational systems.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Claude Code, Claude API, OpenAI API, MCP servers
+- Notion (Certified Admin) and Notion API
+- Airtable, Make, Zapier
+- Python and JavaScript scripting
+
+## Selected results
+
+- **Faroo Legal:** 8+ hours a week back per person on the core team.
+- **Grows Pro:** about 5 hours a week back per person, across 25 people.
+- **Colombia Luxury Services:** quote close rate from 25% to 43%.
+
+## Recognition
+
+- Winner, Notion Custom Agent Buildathon
+
+## Contact
+
+[linkedin.com/in/sarasystec](https://www.linkedin.com/in/sarasystec/)
